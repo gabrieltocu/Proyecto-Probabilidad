@@ -1,0 +1,37 @@
+---
+title: "Proyecto"
+author: Daniel Felipe Pallares Kelin, Gabriel José Torres Cuellar, Juliana Martinez Chantre, Juan Sebastian Corredor Rosero, Nevis Carolina Cuadros Agamez
+date: "2024-08-28"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    collapsed: true
+    smooth_scroll: true
+    theme: journal
+    highlight: kate
+    df_print: paged
+    code_folding: show
+---
+
+En este archivo se presentan los resultados obtenidos de la encuesta realizada a 30 estudiantes, y el análisis con el propósito de encontrar la hora pico de las rutas en La Universidad de La Sábana. Teniendo como público objetivo a cualquier persona de la universidad que hiciese uso de la ruta.
+
+# Graficos-Tablas
+```{r include=FALSE}
+library(tidyverse)
+```
+```{r, rows.print=31}
+base_datos <- read.csv("encuesta.csv")
+base_datos
+```
+# Estadisticas descriptivas
+```{r}
+summary(base_datos)
+```
+# Graficos de relaciones entre variables
+
+
+
+
+

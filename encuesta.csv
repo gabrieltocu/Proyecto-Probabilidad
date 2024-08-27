@@ -1,0 +1,32 @@
+﻿Edad,Género,Facultad,Dia_que_usa_la_ruta,Hora_de_la_ruta_usada_hoy,ruta_mas_usada,Horario _de_salida,donde_vive,Otros_metodos_de_transporte,facilidad_acceso,Conformidad 
+18 años a 20 años,Masculino,Facultad de Medicina,"Lunes, Martes, Miercoles, Jueves, Viernes",12:00 a 15:00,Carrera Novena,18:00,Usaquén,"Tren, Flota, Carro propio",2,3
+21 años a 22 años,Masculino,Facultad de Ingeniería,"Lunes, Martes, Miercoles, Viernes",12:00 a 15:00,Carrera Novena,15:00,Usaquén,Carro propio,3,3
+18 años a 20 años,Masculino,Facultad de Ingeniería,"Martes, Miercoles, Viernes",9:00 a 12:00,Portal 170,12:00,Usaquén,"Flota, Carro propio, Transmilenio",2,4
+18 años a 20 años,Masculino,Facultad de Filosofía y Ciencias Humanas,"Lunes, Miercoles, Jueves",6:00 a 9:00,Boyacá,17:00,Engativá,"Flota, Transmilenio",1,4
+18 años a 20 años,Femenino,Facultad de Ingeniería,"Martes, Miercoles, Jueves, Viernes",6:00 a 9:00,Carrera Novena,18:00,Usaquén,"Tren, Flota",3,2
+18 años a 20 años,Femenino,Escuela Internacional de Ciencias Económicas y Administrativas,"Lunes, Martes, Miercoles, Jueves",6:00 a 9:00,Carrera Novena,15:00,Usaquén,"Tren, Wheels",2,3
+21 años a 22 años,Masculino,Facultad de Ingeniería,"Lunes, Martes, Miercoles, Jueves, Viernes",6:00 a 9:00,Portal 170,17:00,Otra,"Flota, Transmilenio",3,4
+Menor a 18,Masculino,Facultad de Medicina,"Lunes, Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Heroes,18:00,Otra,"Flota, Transmilenio",2,1
+18 años a 20 años,Femenino,Facultad de Medicina,"Lunes, Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Boyacá,18:00,Suba,"Flota, Transmilenio",3,1
+Menor a 18,Femenino,Facultad de Medicina,"Lunes, Martes, Miercoles, Jueves, Viernes",6:00 a 9:00,Heroes,18:00,Otra,Transmilenio,1,5
+Menor a 18,Femenino,Facultad de Medicina,"Lunes, Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Heroes,17:00,Otra,Transmilenio,1,5
+18 años a 20 años,Masculino,Facultad de Medicina,"Lunes, Miercoles, Jueves",No aplica,Suba,18:00,Suba,"Flota, Otro",4,3
+18 años a 20 años,Femenino,Facultad de Comunicación,"Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Heroes,18:00,Suba,Wheels,2,4
+18 años a 20 años,Masculino,Facultad de Ingeniería,"Lunes, Martes, Miercoles, Jueves",9:00 a 12:00,Heroes,18:00,Suba,Carro propio,1,5
+18 años a 20 años,Femenino,Escuela Internacional de Ciencias Económicas y Administrativas,"Lunes, Martes, Miercoles, Jueves",No aplica,Portal 170,16:00,Engativá,"Tren, Flota, Transmilenio",4,2
+18 años a 20 años,Femenino,Escuela Internacional de Ciencias Económicas y Administrativas,"Martes, Miercoles, Viernes",6:00 a 9:00,Heroes,12:00,Otra,"Flota, Transmilenio",1,1
+21 años a 22 años,Masculino,Escuela Internacional de Ciencias Económicas y Administrativas,"Martes, Miercoles, Viernes",12:00 a 15:00,Suba,12:00,Suba,Transmilenio,2,3
+18 años a 20 años,Masculino,Facultad de Ingeniería,"Lunes, Martes, Miercoles, Jueves, Viernes",9:00 a 12:00,Heroes,15:00,Suba,"Flota, Carro propio, Transmilenio",4,4
+18 años a 20 años,Masculino,Escuela Internacional de Ciencias Económicas y Administrativas,"Lunes, Martes, Miercoles, Jueves, Viernes",9:00 a 12:00,Carrera Novena,15:00,Usaquén,"Carro propio, Wheels",1,2
+18 años a 20 años,Masculino,Facultad de Comunicación,"Lunes, Martes, Miercoles, Jueves, Viernes",6:00 a 9:00,Boyacá,15:00,Suba,Carro propio,4,3
+18 años a 20 años,Femenino,Facultad de Comunicación,Viernes,15:00 a 18:00,Carrera Novena,13:00,Usaquén,"Flota, Carro propio, Wheels",3,2
+18 años a 20 años,Femenino,Facultad de Comunicación,"Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Carrera Novena,15:00,Usaquén,"Flota, Carro propio",3,3
+18 años a 20 años,Masculino,Escuela Internacional de Ciencias Económicas y Administrativas,Viernes,15:00 a 18:00,Heroes,15:00,Usaquén,Flota,2,3
+18 años a 20 años,Femenino,Escuela Internacional de Ciencias Económicas y Administrativas,"Lunes, Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Boyacá,15:00,Suba,"Flota, Wheels",2,3
+18 años a 20 años,Masculino,Facultad de Psicología y Ciencias del Comportamiento,"Lunes, Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Boyacá,14:00,Suba,"Flota, Transmilenio",2,3
+18 años a 20 años,Femenino,Facultad de Comunicación,"Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Boyacá,17:00,Suba,"Flota, Wheels",4,3
+18 años a 20 años,Masculino,Facultad de Ingeniería,"Lunes, Martes, Miercoles, Jueves, Viernes",6:00 a 9:00,Boyacá,15:00,Suba,Flota,5,4
+18 años a 20 años,Femenino,Facultad de Derecho y Ciencias Políticas,"Lunes, Martes, Miercoles, Jueves, Viernes",15:00 a 18:00,Portal 170,16:00,Suba,"Flota, Carro propio",5,4
+18 años a 20 años,Femenino,Escuela Internacional de Ciencias Económicas y Administrativas,Viernes,15:00 a 18:00,Boyacá,12:00,Fontibón,Carro propio,1,5
+Menor a 18,Femenino,Facultad de Ingeniería,"Lunes, Jueves",15:00 a 18:00,Boyacá,19:00,Otra,Flota,3,5
+18 años a 20 años,Femenino,Escuela Internacional de Ciencias Económicas y Administrativas,"Lunes, Martes, Miercoles, Jueves, Viernes",6:00 a 9:00,Heroes,14:00,Otra,"Flota, Moto, Transmilenio",5,5
